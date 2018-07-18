@@ -95,7 +95,7 @@ install_requires = [
     'Flask>=0.11.1',
     'asciitree>=0.3.1',
     'invenio-query-parser>=0.6.0',
-    'invenio-records>=1.0.0b1',
+    'invenio-records>=1.0.0b3',
     'pyPEG2>=2.15.1',
     'sqlalchemy_mptt>=0.2',
 ]
